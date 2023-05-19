@@ -1,5 +1,5 @@
 {
-  "name": "sum-to-n",
+  "name": "calcDistance",
   "version": "1.0.0",
   "description": "calcDistance is a NPM Library to calculate the direct distance between 2 points on earth via trigonometry",
   "main": "index.js",
